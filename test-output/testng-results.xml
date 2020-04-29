@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100789" started-at="2020-04-29T11:02:12Z" finished-at="2020-04-29T11:03:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100789" started-at="2020-04-29T11:02:12Z" finished-at="2020-04-29T11:03:52Z">
+      <class name="amazonTestCase.AmazonSearch">
+        <test-method status="PASS" signature="firstRun()[pri:0, instance:amazonTestCase.AmazonSearch@6e1567f1]" name="firstRun" duration-ms="100763" started-at="2020-04-29T11:02:12Z" finished-at="2020-04-29T11:03:52Z">
+        </test-method> <!-- firstRun -->
+      </class> <!-- amazonTestCase.AmazonSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
